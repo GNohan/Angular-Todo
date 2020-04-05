@@ -1,6 +1,6 @@
-# AngularCrashTodoslist
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
+## About
+This project was made for my Web Developement class. It was my introductory project in Angular. It shows one of the most classic 
+practice examples for component based frameworks.
 
 ## Development server
 
